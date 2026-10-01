@@ -1,0 +1,26 @@
+# Compiled Java class files
+*.class
+bin/
+target/
+build/
+
+# Packaging
+*.jar
+*.war
+
+# IDE configuration
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Environment (Zero API keys guarantee)
+.env
+.env*.local
+*.log
